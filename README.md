@@ -1,5 +1,8 @@
 # OLA-Driver-Attrition-Prediction
 ***OLA Driver Attrition Prediction using Machine Learning***
+
+📘 ***[View Complete Notebook (Google Colab)](https://colab.research.google.com/drive/1lwjmCRte3tPEPS0culSSP3Yj0JrmsxaA?usp=sharing)***
+
 - Formulated a predictive modeling approach to identify drivers at high risk of attrition using
 demographic, tenure, performance, and income-related features.
 - Performed end-to-end exploratory data analysis, feature engineering, encoding, and scaling to create
